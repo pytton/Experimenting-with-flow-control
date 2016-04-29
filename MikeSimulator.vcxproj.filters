@@ -48,6 +48,9 @@
     <ClInclude Include="src\FLUID\FluidInterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\WidgetTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Control.cpp">
@@ -71,13 +74,13 @@
     <ClCompile Include="src\MikeSimulator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\Pointers.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="src\UserInterface.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\FLUID\FluidInterface.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\WidgetTable.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -2,6 +2,8 @@
 #include <iostream>
 #include "MikeSimulator.h"
 #include "UserInterface.h"
+#include "WidgetTable.h"
+
 
 MikeOrder::MikeOrder(MikeSimulator * mikesim)
 {

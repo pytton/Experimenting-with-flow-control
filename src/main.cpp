@@ -1,7 +1,3 @@
-//Trying out if archive works here
-
-
-
 /*
 
 SITUATION:
@@ -142,7 +138,7 @@ int main()
 //	mikesimulator->GetControl()->printCurrentAll();
 
 //populate price column with prices:
-	mikesimulator->GetDisplay()->GetWindow()->GetTable()->PopPriceCol(/*mikesimulator->GetDisplay()->GetWindow()->GetTable()*/);
+//	mikesimulator->GetDisplay()->GetWindow()->GetTable()->PopPriceCol(/*mikesimulator->GetDisplay()->GetWindow()->GetTable()*/);
 
 
 	return Fl::run();

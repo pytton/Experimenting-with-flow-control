@@ -3,6 +3,7 @@
 #include "MikeSimulator.h"
 #include "Data.h"
 #include "Display.h"
+#include "WidgetTable.h"
 
 Control::Control(MikeSimulator * p)
 {
